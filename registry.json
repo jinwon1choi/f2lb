@@ -138,6 +138,11 @@
 				"member_since": "2021-03-08",
 				"name": "CSK"
 			}
+			"23": {
+				"pool_id": "a47f708038dc2bdf47795e24dac4b73904cbad4424bfce75856260cf",
+				"member_since": "2021-03-05",
+				"name": "AGG1"
+			}
 		}
 	}
 }
